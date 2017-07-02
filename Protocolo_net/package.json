@@ -1,0 +1,19 @@
+{
+  "name": "server-net",
+  "version": "1.0.0",
+  "description": "Servidor usando net",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioDeAlmeidaRosa/CursoNodeJS_RodrogoBranas.git"
+  },
+  "author": "Marcio de Almeida Rosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioDeAlmeidaRosa/CursoNodeJS_RodrogoBranas/issues"
+  },
+  "homepage": "https://github.com/MarcioDeAlmeidaRosa/CursoNodeJS_RodrogoBranas#readme"
+}
